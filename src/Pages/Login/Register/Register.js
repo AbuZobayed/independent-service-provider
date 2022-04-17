@@ -56,6 +56,8 @@ const Register = () => {
             <h2 style={{textAlign:'center'}}>Please Register</h2>
             <form onSubmit={handleRegister}>
                 <input type="text" name="name" id="" placeholder='Your name'/>
+
+                <input type="text" name="name" id="" placeholder='Address'/>
               
                 <input type="email" name="email" id="" placeholder='Email Address' required/>
                
@@ -63,13 +65,13 @@ const Register = () => {
 
                 <input onClick={() => setAgree(!agree)} type="checkbox" name="terms" id="terms" />
 
-                {/* <label className={agree ? 'ps-2 text-primary' : 'ps-2 text-danger'} htmlFor="terms">Accept Genius Car Terms and conditions</label> */}
+                
 
-                <label className={`ps-2 ${agree ? '' : 'text-danger'}`} htmlFor="terms">Accept Genius Car Terms and conditions</label>
+                <label className={`ps-2 ${agree ? '' : 'text-danger'}`} htmlFor="terms">Accept Terms and conditions</label>
 
                 <input
                 disabled={!agree}
-                 className='w-50 mx-auto btn btn-primary mt-2' 
+                 className='w-50 mx-auto btn btn-dark mt-2' 
                  type="submit" 
                  value="Register" />
             </form>
