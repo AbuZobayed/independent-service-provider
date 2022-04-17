@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Footer from '../../Shared/Footer/Footer';
 import Service from '../Service/Service';
 import './Services.css'
 
@@ -18,7 +19,8 @@ const Services = () => {
 
 
     return (
-        <div id ="services" className='container'>
+       <div>
+            <div id ="services" className='container'>
             <div className="row">
             <h1 className='text-dark text-center mt-5'> Our Services</h1>
 
@@ -31,7 +33,11 @@ const Services = () => {
         }
     </div>
             </div>
+
+            
         </div>
+        <Footer></Footer>
+       </div>
     );
 };
 
