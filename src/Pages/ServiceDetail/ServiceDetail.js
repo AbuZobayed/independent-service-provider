@@ -2,11 +2,11 @@ import React from 'react';
 import { Link, useParams } from 'react-router-dom';
 
 const ServiceDetail = () => {
-    const {serviceId , name} = useParams()
+    // const {serviceId } = useParams()
     return (
         <div>
-            <h2>welcome to datails: {serviceId}</h2>
-            <h3>{name}</h3>
+            {/* <h2>welcome to datails: {serviceId}</h2> */}
+           
             <div className='text-center'>
             <Link to="/checkout">
                 <button className='btn btn-dark'>Proceed Checkout</button>

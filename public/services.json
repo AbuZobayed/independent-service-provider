@@ -1,44 +1,44 @@
 [
-    {
-        "id": 1,
-        "name": "Mcmorablc wedding rings",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://images.unsplash.com/photo-1595662000432-f8cdba893fa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-    },
-    {
-        "id": 2,
-        "name": "Wedding planning",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://images.unsplash.com/photo-1629756048377-09540f52caa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
-    },
-    {
-        "id": 3,
-        "name": "Should I hire a photographer? Is it worthv it?",
-        "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://images.unsplash.com/photo-1503525443530-339273ca8a86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-    },
-    {
-        "id": 4,
-        "name": "Mcmorable wedding rings",
-        "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-    },
-    {
-        "id": 5,
-        "name": "Wedding planning basic",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://images.unsplash.com/photo-1495434224324-36812b391125?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1313&q=80"
-    },
-    {
-        "id": 6,
-        "name": "Honcymoon photography",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://images.unsplash.com/photo-1623783356340-95375aac85ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80"
-    }
+  {
+    "id": 1,
+    "name": "Memorable wedding rings",
+    "price": "300",
+    "description": "We independently research, test, review, and recommend the best products—learn more about our process. If you buy something through our links, we may earn a commission.",
+    "img": "https://images.unsplash.com/photo-1595662000432-f8cdba893fa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Wedding planning",
+    "price": "100",
+    "description": "If you’re the kind of meeting planner or executive who wants your team’s corporate retreat or conference to be as successful as possible, you’ve landed in the right place.",
+    "img": "https://images.unsplash.com/photo-1629756048377-09540f52caa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Should I hire a photographer? Is it worth it?",
+    "price": "150",
+    "description": "Merely using the camera correctly is only the first step in becoming a professional photographer. ",
+    "img": "https://images.unsplash.com/photo-1503525443530-339273ca8a86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Memorable wedding rings",
+    "price": "180",
+    "description": "We independently research, test, review, and recommend the best products—learn more about our process. If you buy something through our links, we may earn a commission.",
+    "img": "https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Wedding planning basic",
+    "price": "100",
+    "description": "If you’re the kind of meeting planner or executive who wants your team’s corporate retreat or conference to be as successful as possible, you’ve landed in the right place.",
+    "img": "https://images.unsplash.com/photo-1495434224324-36812b391125?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1313&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Honeymoon photography",
+    "price": "300",
+    "description": "After the rush of the wedding, spend time reconnecting as a couple and investing in the intimacy of your relationship",
+    "img": "https://images.unsplash.com/photo-1623783356340-95375aac85ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80"
+  }
 ]
