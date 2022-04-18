@@ -29,9 +29,7 @@ const Register = () => {
         return <Loading></Loading>
     }
 
-    // if(user){
-    //     navigate('/home'); 
-    // }
+    
 
     if(user){
         console.log('user' , user);
