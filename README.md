@@ -1,6 +1,6 @@
 #Wedding Flowers
 
-This project was bootstrapped with [Wedding Flowers](https://assginment-ten.web.app/).
+This project was bootstrapped with [Wedding Flowers](https://assginment-ten.web.app).
 
 * A website for an individual who provides services. (wedding photographer).
 * Give your website a name 'Wedding Flowers'.
@@ -10,4 +10,6 @@ This project was bootstrapped with [Wedding Flowers](https://assginment-ten.web.
 * use react firebase hooks
 * use react router v6
 * use react toast
+* Login to Register togal
+*  use RewuierAuth
 
