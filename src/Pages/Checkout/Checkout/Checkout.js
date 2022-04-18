@@ -1,9 +1,10 @@
 import React from 'react';
 
 const Checkout = () => {
+    // const {name, img , price} = service;
     return (
-        <div>
-            <h2>Please CheckOut Your booking</h2>
+        <div className='container text-center mt-5'>
+            <h2>Thank you for the  booking</h2>
         </div>
     );
 };

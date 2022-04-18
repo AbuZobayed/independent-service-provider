@@ -7,7 +7,8 @@ const ServiceDetail = () => {
         <div>
             {/* <h2>welcome to datails: {serviceId}</h2> */}
            
-            <div className='text-center'>
+            <div className='text-center mt-5'>
+                <h3 className='mt-3'>Your Product is ready please Checkout</h3>
             <Link to="/checkout">
                 <button className='btn btn-dark'>Proceed Checkout</button>
             </Link>
